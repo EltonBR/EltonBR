@@ -19,6 +19,10 @@ Angular, Angular Material, Bootstrap, RxJS, Laravel, React Native (básico, já 
 MySQL, SQL Server.
 
 ------------------------
+### FAQ em Entrevistas
+<a href="https://github.com/EltonBR/FAQ-interviewers">Aqui</a>
+------------------------
+
 # Testes Técnicos que me passaram para angular e coisas que fiz pra passar o tempo
 
 ## Projeto que fiz para usar em entrevistas tecnicas para ajudar em explicar com exemplo de código

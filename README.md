@@ -10,15 +10,15 @@ e Flutter (também em nível básico, atuei em um projeto recentemente). Possuo 
 Em resumo, sou um desenvolvedor Fullstack com foco em Frontend, versátil e adaptável às necessidades de cada projeto, sempre buscando aprimorar minhas habilidades e conhecimentos para entregar soluções de alta qualidade.
 
 
-## Linguagens de Programação
+### Linguagens de Programação
 TypeScript, JavaScript, PHP, Dart. C# (básico)
 
-## Frameworks e Libs
+### Frameworks e Libs
 Angular, Angular Material, Bootstrap, RxJS, Laravel, React Native (básico, já fiz um pequeno projeto para uma das empresas que trabalhei), Flutter (básico, atuei em um projeto recentemente). .NET Core (basico)
-## Banco de dados relacionais
+### Banco de dados relacionais
 MySQL, SQL Server.
 
-
+------------------------
 # Testes Técnicos que me passaram para angular e coisas que fiz pra passar o tempo
 
 ## Projeto que fiz para usar em entrevistas tecnicas para ajudar em explicar com exemplo de código
@@ -45,6 +45,8 @@ https://github.com/EltonBR/angular-pokemon
 
 ### Live Demo
 https://angular-pokemon-o7rjugfny-eltonbr.vercel.app/
+
+------------------------
 
 ## Ferramentas e outras coisas
 Ferramentas da Atlasian: Jira, Bitbucket, Bamboo, cofluence

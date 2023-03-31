@@ -9,6 +9,8 @@ Além disso, tenho conhecimento em diversos frameworks e bibliotecas, como Angul
 e Flutter (também em nível básico, atuei em um projeto recentemente). Possuo experiência em banco de dados relacionais, como MySQL e SQL Server.
 Em resumo, sou um desenvolvedor Fullstack com foco em Frontend, versátil e adaptável às necessidades de cada projeto, sempre buscando aprimorar minhas habilidades e conhecimentos para entregar soluções de alta qualidade.
 
+### Redes Sociais
+<a href="https://www.linkedin.com/in/ejss/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ### Linguagens de Programação e Markup
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node.js"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">

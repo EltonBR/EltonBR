@@ -69,5 +69,4 @@ https://angular-pokemon-o7rjugfny-eltonbr.vercel.app/
 Ferramentas da Atlasian: Jira, Bitbucket, Bamboo, cofluence
 
 ### Coisas que sei que estão no pacote mas alguns perguntam
-
-HTML, CSS, XML, JSON
+XML, JSON
